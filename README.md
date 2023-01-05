@@ -5,6 +5,6 @@ Usage:
     python chat.py
   To connect with client:
     python client.py
-    enter ngrok url excluding tcp://
+    enter ngrok address excluding tcp://
     enter ngrok tcp port
     enter username
